@@ -1,0 +1,21 @@
+---
+title: "SVD"
+author: "myincas"
+date: "2016年10月4日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 线性代数基本定理  
+
+## 实矩阵四个基本子空间的维数关系
+
+## 实矩阵四个基本子空间的正交余补性质
+
+## 如何求得实矩阵四个基本子空间的正交基底
+
+
+
